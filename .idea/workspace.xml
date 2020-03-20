@@ -1,26 +1,138 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0f143efa-3055-4097-9a60-94633ea3d3a4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/figure/CalculationFigure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/figure/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/figure/Figure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/figure/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/figure/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/figure/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/src/com/figure/Calculation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/src/com/figure/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/src/com/figure/Figure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/src/com/figure/MainClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/figure.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1ZNtxqBvSgb3yxcytjR7uQaaN57" />
+  <component name="ProjectId" id="1ZOupNBVlsyQ4FZV6X8hivb2ABR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="jdk.selected.JAVA_MODULE" value="11" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.figure" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.figure.MainClass" />
+      <module name="figure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.figure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainClass" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f143efa-3055-4097-9a60-94633ea3d3a4" name="Default Changelist" comment="" />
+      <created>1584722643397</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584722643397</updated>
+    </task>
+    <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1584691723199">
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1584725508821">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.826@0.0.1536.826" timestamp="1584691723199" />
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1584691633123">
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.826@0.0.1536.826" timestamp="1584725508821" />
+    <state width="1492" height="206" key="GridCell.Tab.0.bottom" timestamp="1584725828910">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.826@0.0.1536.826" timestamp="1584691633123" />
-    <state x="209" y="33" key="new project wizard" timestamp="1584691669256">
+    <state width="1492" height="206" key="GridCell.Tab.0.bottom/0.0.1536.826@0.0.1536.826" timestamp="1584725828910" />
+    <state width="1492" height="206" key="GridCell.Tab.0.center" timestamp="1584725828910">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
-    <state x="209" y="33" key="new project wizard/0.0.1536.826@0.0.1536.826" timestamp="1584691669256" />
+    <state width="1492" height="206" key="GridCell.Tab.0.center/0.0.1536.826@0.0.1536.826" timestamp="1584725828910" />
+    <state width="1492" height="206" key="GridCell.Tab.0.left" timestamp="1584725828910">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1492" height="206" key="GridCell.Tab.0.left/0.0.1536.826@0.0.1536.826" timestamp="1584725828910" />
+    <state width="1492" height="206" key="GridCell.Tab.0.right" timestamp="1584725828910">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1492" height="206" key="GridCell.Tab.0.right/0.0.1536.826@0.0.1536.826" timestamp="1584725828910" />
+    <state width="1492" height="256" key="GridCell.Tab.1.bottom" timestamp="1584725365199">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1492" height="256" key="GridCell.Tab.1.bottom/0.0.1536.826@0.0.1536.826" timestamp="1584725365199" />
+    <state width="1492" height="256" key="GridCell.Tab.1.center" timestamp="1584725365199">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1492" height="256" key="GridCell.Tab.1.center/0.0.1536.826@0.0.1536.826" timestamp="1584725365199" />
+    <state width="1492" height="256" key="GridCell.Tab.1.left" timestamp="1584725365199">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1492" height="256" key="GridCell.Tab.1.left/0.0.1536.826@0.0.1536.826" timestamp="1584725365199" />
+    <state width="1492" height="256" key="GridCell.Tab.1.right" timestamp="1584725365199">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1492" height="256" key="GridCell.Tab.1.right/0.0.1536.826@0.0.1536.826" timestamp="1584725365199" />
+    <state x="511" y="31" key="refactoring.ChangeSignatureDialog" timestamp="1584723518803">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="511" y="31" key="refactoring.ChangeSignatureDialog/0.0.1536.826@0.0.1536.826" timestamp="1584723518803" />
+    <state x="425" y="182" key="run.anything.popup" timestamp="1584724668996">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="425" y="182" key="run.anything.popup/0.0.1536.826@0.0.1536.826" timestamp="1584724668996" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/figure/Triangle.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
